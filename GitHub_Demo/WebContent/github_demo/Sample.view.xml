@@ -3,8 +3,8 @@
 	<Page title="Git Hub Demo">
 		<content>
 		    <VBox>
-		    <Button id="btn1" text="Button1" press="onButton1Press"></Button>
-		    <Button id="btn2" text="Button2" press="onButton2Press"></Button>
+		    <Button id="btn1" text="Press1" press="onButton1Press"></Button>
+		    <Button id="btn2" text="Press2" press="onButton2Press"></Button>
 		    </VBox>
 	
 		</content>
