@@ -23,7 +23,7 @@ sap.ui.controller("github_demo.Sample", {
 	},
 	
 	onButton2Press: function(){
-		alert("Button 2 Pressed")
+		alert("Button 2 Clicked")
 	},
 
 /**
