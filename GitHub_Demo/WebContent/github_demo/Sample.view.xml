@@ -1,0 +1,12 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="github_demo.Sample" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Git Hub Demo">
+		<content>
+		    <VBox>
+		    <Button id="btn1" text="Button1" press="onButton1Press"></Button>
+		    <Button id="btn2" text="Button2" press="onButton2Press"></Button>
+		    </VBox>
+	
+		</content>
+	</Page>
+</core:View>
